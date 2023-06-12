@@ -1,17 +1,7 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+tiff:
+  name: tiff
+  title: Maintainer of Static Gen Ruby
+  url: https://github.com/twhite96
+  image_url: https://res.cloudinary.com/twhiteblog/image/upload/v1674171747/factoryofsadness_neon_background_portrait_f38eefe9-7b4f-486d-82cf-acbb8d5c9ef5_jbstqf.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
