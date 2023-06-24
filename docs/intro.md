@@ -4,7 +4,7 @@ sidebar_position: 1
 
 :::info "Info"
     A static site generator built with Ruby.
-
+:::
 > A static site generator built with Ruby.
 
 
