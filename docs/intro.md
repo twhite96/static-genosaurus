@@ -32,7 +32,7 @@ Just getting the script running is a win for me, as I am not a Ruby dev at all.
 ## 😐 Difficulties
 Ruby is a *whole other animal* compared to JavaScript and React. No semicolons, defining different methods (Ruby is class based, so there are more methods than functions in this instance), etc. I spent a whole month stuck on what this method did:
 
-```ruby
+```rb
 build_string = base_html
   .gsub("{{ head }}", "#{page_partial}")
   .gsub("{{ seo }}", seo_html)
